@@ -24,6 +24,37 @@ If Kanak predicts the commit type — “bug fix,” “feature,” or “refact
 </details>
 
 ---
+<details>
+ <summary>🧠 What Is a Classification Problem?</summary>
+
+A classification problem involves learning a mapping from input variables \( X \) to a **categorical output** \( y \).  
+The model tries to separate data points into distinct groups — often using probability thresholds, decision boundaries, or voting mechanisms.
+
+ 
+
+### 🧪 Examples of Classification Problems
+
+| Scenario | Input Features | Target Label |
+|----------|----------------|--------------|
+| 📧 Spam Detection | Email content, sender, subject line | Spam / Not Spam |
+| 🏥 Disease Diagnosis | Symptoms, test results, age | Positive / Negative |
+| 🛍️ Customer Churn | Usage frequency, complaints, tenure | Will Churn / Won’t Churn |
+| 🎓 Exam Outcome | Study hours, attendance, past scores | Pass / Fail |
+| 🧘 Mood Prediction | Stress level, sleep hours, screen time | Calm / Stressed |
+
+ 
+
+### 🎯 Characteristics of Classification Problems
+
+- Output is **categorical** (binary, multiclass, or multilabel)  
+- Often involves **decision-making**, **ranking**, or **grouping**  
+- Sensitive to **class imbalance** and **threshold tuning**  
+- Evaluation focuses on **correctness and coverage**
+
+</details>
+ 
+
+---
 
 <details>
 <summary>📊 Common Classification Algorithms</summary>
