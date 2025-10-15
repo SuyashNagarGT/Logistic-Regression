@@ -64,47 +64,53 @@ print("Probability of stress:", model.predict_proba([[3]])[0][1])
 
 <details> <summary>🏭 Industry Use Cases</summary>
 
-🏥 Healthcare
-Disease diagnosis (e.g., cancer detection)
+### 🏥 Healthcare
 
-Patient risk stratification
+- Disease diagnosis (e.g., cancer detection)
 
-Medical image classification
+- Patient risk stratification
 
-🏦 Finance
-Credit approval (good vs bad risk)
+- Medical image classification
 
-Fraud detection
+### 🏦 Finance
 
-Loan default prediction
+- Credit approval (good vs bad risk)
+
+- Fraud detection
+
+- Loan default prediction
 
 📧 Email & Security
-Spam filtering
 
-Malware classification
+ - Spam filtering
 
-Intrusion detection
+ - Malware classification
 
-🛍️ Retail & E-commerce
-Customer churn prediction
+ - Intrusion detection
 
-Product categorization
+### 🛍️ Retail & E-commerce
 
-Sentiment analysis on reviews
+ - Customer churn prediction
 
-🎓 Education
-Student performance classification
+ - Product categorization
 
-Dropout risk prediction
+ - Sentiment analysis on reviews
 
-Exam pass/fail prediction
+### 🎓 Education
 
-📈 Marketing
-Lead scoring
+ - Student performance classification
 
-Campaign response prediction
+ - Dropout risk prediction
 
-Customer segmentation
+ - Exam pass/fail prediction
+
+### 📈 Marketing
+
+ - Lead scoring
+
+ - Campaign response prediction
+
+ - Customer segmentation
 
 </details>
 
